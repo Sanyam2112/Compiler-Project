@@ -1,0 +1,10 @@
+ERROR 2: identifier h not declared, line number 14
+ERROR 9: Redeclaration of variable b in the same scope, line number 16
+ERROR 2: identifier D not declared, line number 34
+ERROR 16 :ARRAYS must have same type line no. 34
+ERROR 9: Redeclaration of variable A in the same scope, line number 38
+ERROR 2: identifier E not declared, line number 40
+ERROR 2: identifier v_1_2_43 not declared, line number 53
+ERROR 2: identifier k not declared, line number 56
+ERROR 5: output types do not match at line number 56
+ERROR 9: Redeclaration of variable B in the same scope, line number 58
